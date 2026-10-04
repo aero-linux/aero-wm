@@ -1,0 +1,11 @@
+[package]
+name = "aero-wm"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ronit Gupta <ronitgupta138@gmail.com>", "Aero Linux Maintainers"]
+description = "High-Performance, Ultra-Lean Wayland Compositor in Rust"
+license = "MIT"
+repository = "https://github.com/aero-linux/aero-wm"
+
+[dependencies]
+# Dependencies will be pinned as the Smithay backend pipeline matures
